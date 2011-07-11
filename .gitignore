@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.swp
+*.swo
+
+bin/
+build/
+dist/
+git_spy.egg-info/
+include/
+lib/
+share/
